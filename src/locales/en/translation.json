@@ -1,0 +1,68 @@
+{
+  "navbar": {
+    "about": "About us",
+    "vision": "Our Vision",
+    "services": "Our Services",
+    "why-means": "Why Means?",
+    "mission": "Our Mission",
+    "contact-us": "Contact Us",
+    "english": "English",
+    "arabic": "Arabic"
+  },
+  "hero": {
+    "title": "MEANS Business Services",
+    "slogan": "Means a lot",
+    "button": "Meat our Designer"
+  },
+  "about": {
+    "title": "Who We Are?",
+    "text": "MEANS Business Services is a company specializing in providing high-quality services to businesses and institutions across various sectors. We strive to meet our clients' needs through a wide range of distinguished services, including gift provision, event organization, booth design, and sourcing suitable influencers for each field.",
+    "button": "Learn More About Our Services"
+  },
+
+  "vision": {
+    "title": "Vision",
+    "text": "To be the trusted partner for businesses in providing outstanding business services through innovation and high quality in everything we offer."
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle1": "Event and Hospitality Organization",
+    "text1": "We handle all aspects of event organization, ensuring exceptional hospitality for your guests.",
+    "subtitle2": "Participation in Annual Celebrations",
+    "text2": "We organize activities and events for annual celebrations and global days.",
+    "subtitle3": "Booth Design for Exhibitions",
+    "text3": "We provide customized booth designs that meet the standards of each event.",
+    "subtitle4": "Corporate Gift Design",
+    "text4": "We create customized luxury and promotional gifts tailored to your needs.",
+    "subtitle5": "Finding the Right Influencers",
+    "text5": "We help you select influencers to achieve your marketing goals effectively."
+  },
+  "why": {
+    "title": "Why Means?",
+    "subtitle1": "High Quality",
+    "text1": "We are committed to providing high-quality services and products that exceed our clients’ expectations.",
+    "subtitle2": "Innovation and Uniqueness",
+    "text2": "Our innovative designs and solutions cater to the evolving needs of the market.",
+    "subtitle3": "Outstanding Customer Service",
+    "text3": "We provide excellent technical support and services to ensure the best customer experience."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "text": "To provide integrated and outstanding solutions that contribute to enhancing customer experience and elevating the level of events and activities organized by businesses."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "text": "Have any questions? We'd love to hear from you! Drop us a message and we’ll get back to you as soon as possible.",
+    "l1": "Full Name",
+    "p1": "Your Full Name",
+    "l2": "Email Address",
+    "p2": "Your Email Address",
+    "l3": "Message",
+    "p3": "Your Message",
+    "button": "Send Message"
+  },
+  "footer": {
+    "rights": "MEANS Business Services. All Rights Reserved.",
+    "contact": "Contact Us: info@meansbusiness.com"
+  }
+}
