@@ -7,7 +7,7 @@ const Footer = () => {
   const { t } = useTranslation()
 
   return (
-    <footer className="bg-[#65338f] text-white py-1 mt-20">
+    <footer className="bg-[#65338f] text-white py-3 mt-20">
       <div className="container mx-auto px-6 flex flex-col md:flex-row items-center justify-between">
         {/* Logo Section */}
         <div className="flex items-center md:mb-0 p-2 bg-white rounded-full">
@@ -20,7 +20,7 @@ const Footer = () => {
 
         {/* Footer Info */}
         <div className="text-center my-4">
-          <p className="text-sm">
+          {/*<p className="text-sm">
             Feel free to reach out to us for any inquiries:
           </p>
           <div className="mt-2 space-y-1">
@@ -37,22 +37,22 @@ const Footer = () => {
             >
               lamia@means-sa.com
             </a>
-          </div>
-          <p className="text-xs mt-2">
+          </div>*/}
+          <p className="text-sm mt-2">
             © {new Date().getFullYear()} {t('footer.rights')}
           </p>
         </div>
 
         {/* Improved WhatsApp Button */}
-        <div className="mt-4 md:mt-10">
+        <div className="mt-4 md:mt-0">
           <a
-            href="https://wa.me/9665333569518"
+            href="https://wa.me/+966533569518"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center bg-green-500 text-white py-3 px-5 rounded-full shadow-lg hover:bg-green-600 transition-transform transform hover:scale-105"
+            className="flex items-center bg-green-500 text-white py-3 px-6 rounded-full shadow-lg hover:bg-green-600 transition-transform transform hover:scale-105"
           >
-            <FaWhatsapp className="text-xl mr-2 animate-bounce" />
-            WhatsApp Us
+            <FaWhatsapp className="text-xl mx-2 animate-bounce" />
+            WhatsApp
           </a>
         </div>
 

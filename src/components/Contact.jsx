@@ -67,7 +67,7 @@ const Contact = () => {
           <form
             name="contact"
             method="POST"
-            action="https://formsubmit.co/falzeer@means-sa.com" // Replace with your FormSubmit email
+            action="https://formsubmit.co/falzeer@means-sa.com,lamia@means-sa.com" // Replace with your FormSubmit email
             className="space-y-6"
           >
             <div>
