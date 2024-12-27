@@ -103,21 +103,37 @@ const Contact = () => {
                 placeholder={t('contact.p2')}
               />
             </div>
+            <div>
+              <label
+                className="block text-lg font-semibold mb-2"
+                htmlFor="phone"
+              >
+                {t('contact.l3')}
+              </label>
+              <input
+                type="text"
+                id="phone"
+                name="phone"
+                required
+                className="w-full px-4 py-3 border border-[#65338f] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#65338f] placeholder-gray-500"
+                placeholder={t('contact.p3')}
+              />
+            </div>
 
             <div>
               <label
                 className="block text-lg font-semibold mb-2"
                 htmlFor="message"
               >
-                {t('contact.l3')}
+                {t('contact.l4')}
               </label>
               <textarea
                 id="message"
                 name="message"
                 required
-                rows="6"
+                rows="4"
                 className="w-full px-4 py-3 border border-[#65338f] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#65338f] placeholder-gray-500"
-                placeholder={t('contact.p3')}
+                placeholder={t('contact.p4')}
               ></textarea>
             </div>
 

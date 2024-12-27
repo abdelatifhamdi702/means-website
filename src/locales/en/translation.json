@@ -57,8 +57,10 @@
     "p1": "Your Full Name",
     "l2": "Email Address",
     "p2": "Your Email Address",
-    "l3": "Message",
-    "p3": "Your Message",
+    "l3": "Phone Number",
+    "p3": "Your Phone Number",
+    "l4": "Message",
+    "p4": "Your Message",
     "button": "Send Message"
   },
   "footer": {
